@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="stack-overflow">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/stack-overflow.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
